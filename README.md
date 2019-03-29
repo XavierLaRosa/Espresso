@@ -16,4 +16,11 @@ Web Developer Tools and References:
 - Color scheme: https://coolors.co/
 - Standard icons: https://icons8.com/icon/pack/free-icons/ios
 
+Landing Page
 ![alt text](https://github.com/XavierLaRosa/Espresso/blob/master/demo/version1/Web%201920%20%E2%80%93%200.png)
+
+Login Alternative Page
+![alt text](https://github.com/XavierLaRosa/Espresso/blob/master/demo/version1/Web%201920%20%E2%80%93%201.png)
+
+Home Page
+![alt text](https://github.com/XavierLaRosa/Espresso/blob/master/demo/version1/Web%201920%20%E2%80%93%202.png)
