@@ -16,4 +16,4 @@ Web Developer Tools and References:
 - Color scheme: https://coolors.co/
 - Standard icons: https://icons8.com/icon/pack/free-icons/ios
 
-![alt text](https://github.com/XavierLaRosa/Espresso/blob/master/demo/Web%201920%20%E2%80%93%200.png)
+![alt text](https://github.com/XavierLaRosa/Espresso/blob/master/demo/version1/Web%201920%20%E2%80%93%200.png)
